@@ -1,0 +1,53 @@
+header {
+     background-color: rgb(236, 234, 234, 0.5);
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+}
+
+.logoClever {
+     display: flex;
+     color: mediumpurple;
+}
+
+.logo {
+     font-size: 1rem;
+     background-color: mediumpurple;
+     padding: 10px;
+     height: 20px;
+     width: 15%;
+     border-radius: 10px;
+
+
+
+
+
+
+
+
+}
+
+
+
+a {
+     text-decoration: none;
+     color: black;
+}
+
+nav>a {
+     margin-left: 15px;
+}
+
+button {
+     background-color: mediumpurple;
+     padding: 10px;
+     color: white;
+     cursor: pointer;
+     border: white;
+     border-radius: 10px;
+
+
+     width: 100px;
+
+
+}
