@@ -1,43 +1,48 @@
 header {
-
      background-color: rgb(236, 234, 234, 0.5);
      display: flex;
      justify-content: space-around;
      align-items: center;
-
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 0.8rem;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 a {
      text-decoration: none;
      color: black;
-
 }
 
-.contenedor {
-     width: 40%;
+nav>a {
+     position: relative;
+     right: 190px;
+
+     margin-left: 15px;
 }
-
-
-
 
 .icons {
-
      display: flex;
-     justify-content: space-between;
 
+}
+
+.msj {
+
+
+     justify-content: space-around;
+}
+
+.point {
+
+
+     right: 30%;
+
+
+
+     width: 8px;
+     height: 8px;
+     display: flex;
+     background-color: red;
+     border-radius: 70%;
 
 
 
