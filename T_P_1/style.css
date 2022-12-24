@@ -5,18 +5,6 @@ header {
      align-items: center;
 }
 
-.logoClever {
-     display: flex;
-     color: mediumpurple;
-}
-
-.logo {
-     font-size: 1rem;
-     background-color: mediumpurple;
-     padding: 10px;
-     height: 20px;
-     width: 15%;
-     border-radius: 10px;
 
 
 
@@ -25,7 +13,9 @@ header {
 
 
 
-}
+
+
+
 
 
 
