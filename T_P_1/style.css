@@ -3,6 +3,8 @@ header {
      display: flex;
      justify-content: space-around;
      align-items: center;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 0.8rem;
 }
 
 
